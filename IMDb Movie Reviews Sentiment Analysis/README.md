@@ -1,5 +1,7 @@
 # IMDb Movie Reviews Sentiment Analysis
 
+Sentiment analysis is a natural language processing (NLP) technique used to determine whether data is positive, negative or neutral. Sentiment analysis is often performed on textual data to help businesses monitor brand and product sentiment in customer feedback, and understand customer needs. It is also used to understand sentiment in reviews posted by users in platforms like amazon, flipkart, IMDb etc.
+
 ## Data Description
 ### Dataset
 The labeled data set consists of 50,000 IMDB movie reviews, specially selected for sentiment analysis. The sentiment of reviews is binary, meaning the IMDB rating < 5 results in a sentiment score of 0, and rating >=7 have a sentiment score of 1. No individual movie has more than 30 reviews. The 25,000 review labeled training set does not include any of the same movies as the 25,000 review test set. 
